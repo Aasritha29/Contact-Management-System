@@ -1,4 +1,4 @@
-Contact Management System:Here I am using MERN stack to build the application
+Contact Management System:Here I am using MERN stack to build the application.Here user can create,add,delete and update the contacts.
 
 Front-End Technologies:React JS,Node.js
 Back-End Technologies :MongoDB,Express.js
