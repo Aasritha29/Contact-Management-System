@@ -1,10 +1,18 @@
 Contact Management System:Here I am using MERN stack to build the application.Here user can create,add,delete and update the contacts.
 
+I have used VS Code to write code 
 Front-End Technologies:React JS,Node.js
+
 Back-End Technologies :MongoDB,Express.js
 
-in VS code
-first we have to keep our system ready with vs code,
+to start client side use 5he following commands: 
+cd client
+npm run dev
+
+to start server side use 5he following commands: 
+cd server
+npm run start
+
 
 API EndPoint :User Registration  
 
