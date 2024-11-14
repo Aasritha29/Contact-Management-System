@@ -5,6 +5,9 @@ Front-End Technologies:React JS,Node.js
 
 Back-End Technologies :MongoDB,Express.js
 
+open the terminal and type command 
+npm create vite@latest
+
 to start client side use 5he following commands: 
 cd client
 npm run dev
